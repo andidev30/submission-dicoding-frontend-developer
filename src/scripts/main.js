@@ -1,3 +1,5 @@
+import './components/footer-custom'
+
 function main() {
 
     const get = async () => {
